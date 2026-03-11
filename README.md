@@ -22,15 +22,6 @@ Small and medium logistics companies struggle to track deliveries, manage driver
 
 ---
 
-## 👥 Team Members
-
-| Name | Role |
-|------|------|
-| Member 1 | Module Development |
-| Member 2 | Testing & Documentation |
-
----
-
 ## 🗂️ Project Structure
 
 ```
