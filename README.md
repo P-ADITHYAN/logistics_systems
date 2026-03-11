@@ -55,7 +55,7 @@ logistics_system/
 └── diagrams/
     ├── ProcessFlowDiagram.png       ← System process flow
     ├── ER_Diagram.png               ← Entity relationship diagram
-    └── ChenNotation_ER.png          ← Chen notation ER diagram
+    
 ```
 
 ---
